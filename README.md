@@ -1,7 +1,7 @@
 #ViewFlipper
 
 手机京东app首页的京东快报有一个无限轮播的公告栏，先看效果：
-![效果][viewflipper]
+![][viewflipper]
 公告内容大概每3s从中间向上滑出，同时下一条内容从底部向上滑动进入。整个过程还伴随有内容的渐变消失。
 开始想这样的效果可以通过自绘控件来实现，后面再想想采用ViewFlipper来实现更为简单。
 看看ViewFlipper类官方注释：
@@ -16,5 +16,5 @@ Simple {@link ViewAnimator} that will animate between two or more views that hav
 
 --------------------------------
 [csdn]:http://blog.csdn.net/zzh_receive/ "我的博客"
-[awesome]:https://github.com/Wisdozzh/ViewFlipper/raw/master/img/viewflipper.gif
+[viewflipper]:https://github.com/Wisdozzh/ViewFlipper/raw/master/img/viewflipper.gif
 
